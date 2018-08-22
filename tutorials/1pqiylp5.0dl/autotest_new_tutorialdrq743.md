@@ -8,8 +8,8 @@ author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 ---
 ### You will learn
-Now that you have set up a questination in the HANA Cloud Platform (HCP) cockpit, you will connect that destination to your local application.
-
+- Now that you have set up a questination in the HANA Cloud Platform (HCP) cockpit, you will connect that destination to your local application.
+- 123.
 autotest tutorial text0w03kq
 
 ## Prerequisites
