@@ -1,6 +1,6 @@
 ---
 title: autotest_navigatorm6CKAbvdqV443K7
-description: autotestUA4703_4/2/2019 2:12:00 PM
+description: autotestUA4703_4/2/2019 2:12:00 PM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 60
