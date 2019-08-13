@@ -1,6 +1,6 @@
 ---
 title: autotest_navigatorL0C42448I8CO28P
-description: autotestJ27622_8/13/2019 12:01:31 PM
+description: autotestJ27622_8/13/2019 12:01:31 PM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 939
