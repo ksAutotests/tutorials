@@ -1,6 +1,6 @@
 ---
 title: autotest_navigator4Uc0l7H3704W27v
-description: autotestHKkpS2_11/26/2019 11:46:13 PM
+description: autotestHKkpS2_11/26/2019 11:46:13 PM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 19
