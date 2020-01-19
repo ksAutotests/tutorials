@@ -1,6 +1,6 @@
 ---
 title: autotest_navigatorUX77ST8Z37jW03L
-description: autotesta3WZ25_1/19/2020 3:50:05 AM
+description: autotesta3WZ25_1/19/2020 3:50:05 AM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 420
