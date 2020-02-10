@@ -1,6 +1,6 @@
 ---
 title: autotest_navigator2Aaw1v05KiT2vX5
-description: autotest67hStX_2/10/2020 10:26:44 PM
+description: autotest67hStX_2/10/2020 10:26:44 PM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 84
