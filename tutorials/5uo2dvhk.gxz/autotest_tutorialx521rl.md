@@ -1,6 +1,6 @@
 ---
 title: autotest_navigator157c3000V768Fi7
-description: autotestYX410i_4/22/2020 2:33:49 PM
+description: autotestYX410i_4/22/2020 2:33:49 PM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 364
