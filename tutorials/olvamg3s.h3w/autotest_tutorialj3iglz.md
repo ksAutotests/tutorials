@@ -1,6 +1,6 @@
 ---
 title: autotest_navigatorIB1N5Gu2SHE5Ps1
-description: autotest81w50O_4/22/2020 7:26:23 AM
+description: autotest81w50O_4/22/2020 7:26:23 AM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 167
