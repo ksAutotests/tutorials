@@ -1,6 +1,6 @@
 ---
 title: autotest_navigator3G487V51VsmJ301
-description: autotestx0057S_5/4/2020 11:30:21 PM
+description: autotestx0057S_5/4/2020 11:30:21 PM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 571
