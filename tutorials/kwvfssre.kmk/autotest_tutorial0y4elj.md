@@ -1,6 +1,6 @@
 ---
 title: autotest_navigator7PxJ0c06eBsQ3OE
-description: autotestY54060_5/20/2020 6:23:56 AM
+description: autotestY54060_5/20/2020 6:23:56 AM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 414
