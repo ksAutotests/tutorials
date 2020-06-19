@@ -1,6 +1,6 @@
 ---
 title: autotest_navigator5X764fSv7Ld157U
-description: autotestw12k85_6/19/2020 7:46:53 AM
+description: autotestw12k85_6/19/2020 7:46:53 AM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 110
