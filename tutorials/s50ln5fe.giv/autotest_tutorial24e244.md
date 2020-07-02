@@ -1,6 +1,6 @@
 ---
 title: autotest_navigatorc8f8G0l04aK8J86
-description: autotestXH66Bn_7/2/2020 10:30:24 PM
+description: autotestXH66Bn_7/2/2020 10:30:24 PM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 450
