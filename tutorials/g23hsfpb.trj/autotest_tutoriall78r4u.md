@@ -1,6 +1,6 @@
 ---
 title: autotest_navigatorGE4201k0806E33O
-description: autotestg2q305_7/9/2020 4:34:20 AM
+description: autotestg2q305_7/9/2020 4:34:20 AM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 711
