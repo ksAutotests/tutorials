@@ -1,6 +1,6 @@
 ---
 title: autotest_navigator65K7vBYU318kK1M
-description: autotest63JG52_7/18/2020 5:05:43 AM
+description: autotest63JG52_7/18/2020 5:05:43 AM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 624
