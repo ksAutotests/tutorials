@@ -1,6 +1,6 @@
 ---
 title: autotest_navigator48fTB7C340fZZF5
-description: autotest8j58S1_7/24/2020 4:41:17 PM
+description: autotest8j58S1_7/24/2020 4:41:17 PM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 282
