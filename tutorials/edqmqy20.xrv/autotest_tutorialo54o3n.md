@@ -1,6 +1,6 @@
 ---
 title: autotest_navigator76nj021TUX60Y15
-description: autotest0783r7_8/17/2020 3:33:28 PM
+description: autotest0783r7_8/17/2020 3:33:28 PM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 61
