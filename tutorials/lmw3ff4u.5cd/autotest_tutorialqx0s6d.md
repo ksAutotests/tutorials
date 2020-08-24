@@ -1,6 +1,6 @@
 ---
 title: autotest_navigatorkC0oK0MlN15D82r
-description: autotestZdZ472_8/24/2020 10:19:27 PM
+description: autotestZdZ472_8/24/2020 10:19:27 PM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 599
