@@ -1,6 +1,6 @@
 ---
 title: autotest_navigatoro1xbH7348h6046Z
-description: autotestTK02OT_9/26/2020 3:38:30 AM
+description: autotestTK02OT_9/26/2020 3:38:30 AM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 684
