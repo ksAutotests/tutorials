@@ -1,6 +1,6 @@
 ---
 title: autotest_navigatorm818Mi8J33Y2586
-description: autotestJNXobX_10/6/2020 4:57:19 AM
+description: autotestJNXobX_10/6/2020 4:57:19 AM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 435
