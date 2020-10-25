@@ -1,6 +1,6 @@
 ---
 title: autotest_navigatorBT5iV308L1C6Kxg
-description: autotest6do752_10/25/2020 6:40:43 AM
+description: autotest6do752_10/25/2020 6:40:43 AM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 118
