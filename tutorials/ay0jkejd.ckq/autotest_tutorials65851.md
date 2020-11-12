@@ -1,6 +1,6 @@
 ---
 title: autotest_navigatorcg5A5373H71g2Mg
-description: autotest580A34_11/12/2020 7:27:32 AM
+description: autotest580A34_11/12/2020 7:27:32 AM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 128
