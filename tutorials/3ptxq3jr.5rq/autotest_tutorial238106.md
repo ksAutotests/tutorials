@@ -1,6 +1,6 @@
 ---
 title: autotest_navigator0554CXrf3G50sH2
-description: autotestW1EJe6_11/26/2020 8:13:11 PM
+description: autotestW1EJe6_11/26/2020 8:13:11 PM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 225
