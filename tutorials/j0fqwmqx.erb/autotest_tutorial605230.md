@@ -1,6 +1,6 @@
 ---
 title: autotest_navigator2g8vBSSK6And2ck
-description: autotestS0618U_12/4/2020 8:13:25 AM
+description: autotestS0618U_12/4/2020 8:13:25 AM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 187
