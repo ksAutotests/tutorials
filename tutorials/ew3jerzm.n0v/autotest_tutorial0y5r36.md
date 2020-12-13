@@ -1,6 +1,6 @@
 ---
 title: autotest_navigator746r8vt7XLB454X
-description: autotestL63e47_12/13/2020 7:18:00 AM
+description: autotestL63e47_12/13/2020 7:18:00 AM_updated
 tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/beginner]
 primary_tag: topic:615693459582413452469752593601406
 time: 914
